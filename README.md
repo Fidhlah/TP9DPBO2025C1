@@ -3,6 +3,7 @@ Saya Muhammad Hafidh Fadhilah dengan NIM 2305672 mengerjakan Tugas Praktikum 9 d
 
 # Desain Program
 ![image](https://github.com/user-attachments/assets/ade4635a-ef89-448a-8205-60604a3f95a1)
+
 Kolom:
 - `id`: Primary key auto-increment
 - `nim`: Nomor Induk Mahasiswa
